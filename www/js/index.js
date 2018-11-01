@@ -7,7 +7,7 @@ $(document).on("pagecreate","#pageone",function(){
 
 function submitText() {
 	var text = $('#textinput').val();
-	alert(text);
+	alert("Thank you for submitting all your details to the lord of darkness.");
 }
 
 function storeValue(key, value) {
